@@ -1,4 +1,4 @@
-# JAMStack Tutorial - Part 5
+# JAMStack Tutorial - Part 4
 JAMStack tutorial using JAMStack, 11ty (Eleventy), and Netlify from [https://gist.github.com/philhawksworth/467bb34b954fe1c16f55c770bc0407cb](https://gist.github.com/philhawksworth/467bb34b954fe1c16f55c770bc0407cb).  Tutorial by Phil Hawksworth from Netlify.
 
 ## Reference
